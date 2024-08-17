@@ -1,6 +1,6 @@
 # ¡Hola, soy Franco Dev! 👋
 
-¡Bienvenido a mi rincón de código! Soy Francisco Pereira, también conocido como Franco Dev. 🚀
+¡Bienvenido a mi rincón de código! Soy Francisco Pereira. 🚀
 
 
 
