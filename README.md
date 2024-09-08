@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; height: 200px;"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxY2VkMTIxMm12ZHBpbnRlcm5hbF0naGVhZGVyX2ltYWdlX3VybCZlcj12MSZjdD1n/43X08A7CZM1126gdhn/giphy.gif" width="100"> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxmcXR5ZGRic3ppaGlmemp4a2RtMmJ5OHNyMnlzOTJjNTNlOHFkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.webp" width="100"> 
   <h1 style="margin-left: 20px;">¡Hola, soy Franco Dev! 👋</h1>
 </div>
 
