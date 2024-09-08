@@ -1,4 +1,7 @@
-# <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;"> <img width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxmcXR5ZGRic3ppaGlmemp4a2RtMmJ5OHNyMnlzOTJjNTNlOHFkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.webp"/> ¡Hola, soy Franco Dev! 👋
+<div align="center" style="display: flex; align-items: center; justify-content: center; height: 200px;"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxY2VkMTIxMm12ZHBpbnRlcm5hbF0naGVhZGVyX2ltYWdlX3VybCZlcj12MSZjdD1n/43X08A7CZM1126gdhn/giphy.gif" width="100"> 
+  <h1 style="margin-left: 20px;">¡Hola, soy Franco Dev! 👋</h1>
+</div>
 
 
 ¡Hola, mundo! Soy Francisco Pereira, un Analista Programador, y estoy aquí para darle vida a tus ideas. Me encanta construir la lógica detrás de las aplicaciones, pero no le temo a darle un toque de estilo al front-end.
