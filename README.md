@@ -1,4 +1,4 @@
-<div  style="display: flex; align-items: center; justify-content: center; height: 100px;"> 
+<div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;"> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxmcXR5ZGRic3ppaGlmemp4a2RtMmJ5OHNyMnlzOTJjNTNlOHFkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.webp" width="100"> 
   <h1 style="">¡Hola, soy Franco Dev! 👋</h1>
 </div>
