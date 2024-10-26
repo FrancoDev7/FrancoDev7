@@ -9,8 +9,6 @@
 Cuando no estoy programando, probablemente me encuentres en la cancha de tenis o disfrutando de algún otro deporte. ¡Me encanta liderar equipos y llevar proyectos hasta la línea de meta!
 
 
-PD: Si mi código tiene algún error, ¡no me juzgues! ¡Soy un perfeccionista en progreso! 😉 🚀
-
 ### Skills
 
 <p align="left">
